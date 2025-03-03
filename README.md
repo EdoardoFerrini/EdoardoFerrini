@@ -5,12 +5,6 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical&hide_border=true)
-
-[![Edoardo's WakaTime stats](https://edoardo-ferrini.vercel.app/api/wakatime?username=edoardoferrini)](https://github.com/EdoardoFerrini/EdoardoFerrini)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=radical)
-
 ## 🛠️ Tech Stack Principale
 
 ### **Backend & Cloud**
