@@ -15,7 +15,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=.net&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat&logo=azure-functions&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### **Frontend**
@@ -27,27 +26,6 @@
 ### **DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-## 🚀 Progetti in Evidenza
-
-### 1. [E-Commerce Platform](https://github.com/tuo-repo)
-**ASP.NET Core 7 | Angular 15 | Azure**
-- Piattaforma completa con microservizi
-- Integrazione pagamenti Stripe
-- Dashboard admin real-time
-
-### 2. [IoT Monitoring System](https://github.com/tuo-repo)
-**.NET 6 | Azure IoT Hub | React**
-- Raccolta dati da sensori in tempo reale
-- Alerting system con SignalR
-- Scalabile con Kubernetes
-
-### 3. [AI-Powered CMS](https://github.com/tuo-repo)
-**C# | ML.NET | Blazor**
-- Content recommendation engine
-- Integrazione NLP per analisi testi
-- Editor markdown avanzato
 
 ## 📫 Come Contattarmi
 
