@@ -1,14 +1,14 @@
-# 👋 Ciao, sono [Nome Cognome]  
+# 👋 Ciao, sono Edoardo Ferrini  
 ### **Fullstack Developer .NET | Cloud Enthusiast**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-profilo)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdoardoFerrini&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoFerrini&layout=compact&theme=radical)
+
 ## 🛠️ Tech Stack Principale
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdoardoFerrini)](https://github.com/EdoardoFerrini/github-readme-stats)
-
 
 ### **Backend & Cloud**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -60,3 +60,4 @@
 - 🌱 Sto imparando **.NET 8** e **Kubernetes**
 - 👯 Cerco collaborazioni su progetti open source legati all'AI
 - 🚀 Obiettivo 2024: Implementare un progetto completo con Azure Quantum
+
