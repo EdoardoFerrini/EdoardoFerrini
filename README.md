@@ -7,7 +7,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical&hide_border=true)
 
-[![Edoardo's WakaTime stats](https://edoardo-ferrini.vercel.app/api/wakatime?username=edoardoferrini)](https://github.com/anuraghazra/github-readme-stats)
+[![Edoardo's WakaTime stats](https://edoardo-ferrini.vercel.app/api/wakatime?username=edoardoferrini)](https://github.com/EdoardoFerrini/EdoardoFerrini)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=radical)
 
