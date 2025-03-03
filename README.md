@@ -7,6 +7,9 @@
 
 ## 🛠️ Tech Stack Principale
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdoardoFerrini)](https://github.com/EdoardoFerrini/github-readme-stats)
+
+
 ### **Backend & Cloud**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
