@@ -1,6 +1,9 @@
 # 👋 Ciao, sono Edoardo Ferrini  
 ### **Fullstack Developer .NET | Cloud Enthusiast**
 
+Hello! I'm Edoardo Ferrini, a junior .NET Developer Full Stack based in Rome. With 2 years of experience, I thrive at the intersection of software engineering. My passion lies in crafting seamless user experiences and visually compelling designs that resonate with audiences and drive engagement. 
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-ferrini-303454a8/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
