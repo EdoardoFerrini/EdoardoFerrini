@@ -35,4 +35,9 @@
 - 👯 Cerco collaborazioni su progetti open source legati all'AI
 - 🚀 Obiettivo 2024: Implementare un progetto completo con Azure Quantum
 - 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=EdoardoFerrini.EdoardoFerrini)
+
+# Hi there, I'm Ambi! 👋
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ambi)
+
+Welcome to my GitHub profile! I love coding and building cool projects. Check out my repositories below!
