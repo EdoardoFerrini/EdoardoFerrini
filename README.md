@@ -36,4 +36,3 @@
 - 🚀 Obiettivo 2024: Implementare un progetto completo con Azure Quantum
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EdoardoFerrini.EdoardoFerrini&left_color=green&right_color=red)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=EdoardoFerrini)
