@@ -1,6 +1,8 @@
 # 👋 Ciao, sono Edoardo Ferrini  
 ### **Fullstack Developer .NET | Cloud Enthusiast**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edoardoferrini&label=Profile%20views&color=0e75b6&style=flat" alt="edoardoferrini" /> </p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdoardoFerrini&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoFerrini&layout=compact&theme=radical)
@@ -39,7 +41,7 @@
 <h1 align="center">Hi 👋, I'm Edoardo Ferrini</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edoardoferrini&label=Profile%20views&color=0e75b6&style=flat" alt="edoardoferrini" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
